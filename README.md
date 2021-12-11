@@ -6,8 +6,8 @@ Nowadays, shopping malls and Big Marts keep track of individual item sales data 
 ## Aim
 To build a solution that should able to predict the sales of the different stores of Big Mart according to the provided dataset.
 ## Procedure
--Importing and checking the dataset
--EDA
+Importing and checking the dataset
+EDA
 -Feature Engineering
 -Preprocessing
 -Label Encoding
